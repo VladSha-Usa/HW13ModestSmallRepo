@@ -1,0 +1,26 @@
+$dark: #1d2126;
+$container-max-widths: (
+  sm: 540px,
+  md: 720px,
+  lg: 960px,
+  xl: 1170px
+) !default;
+$body-color:#8d8f92;
+$link-color:#8d8f92;
+$link-decoration:underline;
+$font-family-base:'Open Sans', sans-serif;
+$btn-padding-y-sm: 0.20rem;
+$btn-padding-x-sm: 0.625rem;
+$btn-font-size-sm:0.875rem;
+$btn-border-width:2px;
+$btn-border-radius-sm:4px;
+$secondary:#a4aead;
+$card-border-width: none;
+$h5-font-size:  1.0625rem;
+$h1-font-size: 2.188rem;
+$navbar-padding-x: 0;
+$navbar-padding-y: 0.75rem;
+$navbar-dark-color: rgba(35, 183, 164, 1) !default;
+$navbar-dark-toggler-border-color:   transparent !default;
+
+
